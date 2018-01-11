@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    color: #010000;
+}
+
+/* Titre et tires des section */
+h1,
+h3 {
+    color: #E33D00;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* Bouton télécharger */
+#télécharger {
+    float: right;
+    margin-top: -6%;
+}
+
+/* Partie logo compétences */
+#logo1 {
+    width: 100px;
+    height: 100px;
+}
+
+#logo2 {
+    width: 200px;
+    height: 150px;
+    margin-top: -15%;
+}
+
+#logo3 {
+    width: 180px;
+    height: 100px;
+}
+
+#logo4 {
+    width: 100px;
+    height: 100px;
+}
+
